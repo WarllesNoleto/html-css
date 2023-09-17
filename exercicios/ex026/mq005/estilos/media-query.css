@@ -16,6 +16,10 @@ Grandes telas: acima de 1200px
         display: none;
     }
 
+    header {
+        min-width: 100vw;
+    }
+
     menu {
         display: block;
     }
